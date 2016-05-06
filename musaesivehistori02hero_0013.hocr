@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./musaesivehistori02hero/musaesivehistori02hero_0013.png"; bbox 0 0 1826 3062; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 1039 1490 1108">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 203 1039 1490 1108">
+     <span class='ocr_line' id='line_1_1' title="bbox 203 1039 1490 1108; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 203 1039 789 1107; x_wconf 89' lang='lat' dir='ltr'>HERODOTI</span> <span class='ocrx_word' id='word_1_2' title='bbox 840 1041 1490 1108; x_wconf 86' lang='lat' dir='ltr'><strong>HISTORIAR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 648 1200 1040 1249">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 648 1200 1040 1249">
+     <span class='ocr_line' id='line_1_2' title="bbox 648 1200 1040 1249; baseline 0.005 -2"><span class='ocrx_word' id='word_1_3' title='bbox 648 1200 709 1247; x_wconf 92' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_4' title='bbox 747 1201 827 1247; x_wconf 93' lang='lat' dir='ltr'>II.</span> <span class='ocrx_word' id='word_1_5' title='bbox 909 1200 961 1247; x_wconf 93' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_6' title='bbox 999 1202 1040 1249; x_wconf 87' lang='grc' dir='ltr'>Ι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 360 1383 1327 1443">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 360 1383 1327 1443">
+     <span class='ocr_line' id='line_1_3' title="bbox 360 1383 1327 1443; baseline 0.003 -3"><span class='ocrx_word' id='word_1_7' title='bbox 360 1383 639 1440; x_wconf 89' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_8' title='bbox 699 1383 822 1437; x_wconf 91' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 885 1383 1001 1439; x_wconf 91' lang='lat' dir='ltr'>IV.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1066 1385 1184 1440; x_wconf 95' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_11' title='bbox 1251 1385 1327 1443; x_wconf 88' lang='lat' dir='ltr'>V.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 437 1541 1246 1592">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 437 1541 1246 1592">
+     <span class='ocr_line' id='line_1_4' title="bbox 437 1541 1246 1592; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 437 1541 747 1592; x_wconf 88' lang='lat' dir='ltr'>GRAECE</span> <span class='ocrx_word' id='word_1_13' title='bbox 788 1542 887 1591; x_wconf 90' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_14' title='bbox 929 1542 1246 1592; x_wconf 90' lang='lat' dir='ltr'>LATINE.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
